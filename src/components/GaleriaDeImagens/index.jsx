@@ -1,0 +1,1 @@
+// 8. Galeria de Imagens com Visualização Detalhada: Crie uma galeria simples com uma lista de imagens. Quando o usuário clica em uma imagem, exiba-a em uma visualização ampliada em um modal. Use useState para armazenar a imagem selecionada e renderize o modal condicionalmente. Desafio: adicione um botão de “Fechar” no modal e uma funcionalidade de navegação entre as imagens.

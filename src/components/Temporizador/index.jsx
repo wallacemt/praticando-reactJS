@@ -1,0 +1,1 @@
+// 4. Temporizador com useEffect: Crie um temporizador que conta o tempo em segundos e exiba na tela. Use useEffect para iniciar o temporizador ao carregar o componente e useState para atualizar o tempo. Desafio: adicione botões para pausar e reiniciar o temporizador.
