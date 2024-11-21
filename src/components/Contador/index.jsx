@@ -3,7 +3,7 @@ import { useState } from "react";
 
 // 1. Contador Simples: Crie um componente de contador que exibe um número na tela e possui dois botões: “Incrementar” e “Decrementar”. Use o hook useState para manter o valor do contador. Desafio: adicione uma condição para não permitir que o valor seja menor que zero.
 
-function Contador() {
+export const Contador = () =>  {
     const [contador, setContador] = useState(0);
     const handleIncrement = () => {
         setContador(contador + 1);
@@ -23,5 +23,3 @@ function Contador() {
         </>
     )
 }
-
-export default Contador
